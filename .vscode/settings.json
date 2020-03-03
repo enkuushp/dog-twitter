@@ -1,7 +1,0 @@
-{
-    "editor.formatOnSave": true,
-    "prettier.disableLanguages": [
-        "html"
-    ],
-    "prettier.tabWidth": 4
-}
